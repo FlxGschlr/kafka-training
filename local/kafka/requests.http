@@ -1,0 +1,7 @@
+POST localhost:8080/messages
+Accept: */*
+Content-Type: application/json
+
+{
+  "message" : "mes234234234sage3234"
+}

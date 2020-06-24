@@ -1,0 +1,13 @@
+package de.example.kafkatraining
+
+import org.junit.jupiter.api.Test
+import org.springframework.boot.test.context.SpringBootTest
+
+@SpringBootTest
+class KafkaTrainingApplicationTests {
+
+	@Test
+	fun contextLoads() {
+	}
+
+}
